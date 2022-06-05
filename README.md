@@ -1,6 +1,8 @@
 # Meme Generator
 
-just dummy project
+just dummy project build using reactjs and tailwindcss
+
+Demo : 
 
 
 # Getting Started with Create React App
